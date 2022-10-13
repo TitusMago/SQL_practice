@@ -1,6 +1,6 @@
 <ins>SQL practice</ins><br>
 <ins>Information</ins><br>
-A MySQL company database was created. Some database queries were completed to practice at the same make notes.<br>
+A MySQL company database was created. Some database queries were completed to practice at the same time make notes.<br>
 <ins>Technology</ins><br>
 MySQL completed this project.<br>
 <ins>Launch</ins>
